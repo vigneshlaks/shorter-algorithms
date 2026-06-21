@@ -1,0 +1,23 @@
+Loading data/sf_roads.txt...
+  72930 nodes
+Running Brandes from 500 random sources...
+  50/500
+  100/500
+  150/500
+  200/500
+  250/500
+  300/500
+  350/500
+  400/500
+  450/500
+  500/500
+
+Betweenness distribution:
+  Total score:       24516530.8
+  Top 1% nodes hold: 12.0% of total
+  Top node score:    8919.2
+  Top node location: (37.7, -122.5)
+
+Top 500 nodes geographic spread:
+  Centroid: (37.8, -122.4)
+  Lat std:  0.0°  Lon std: 0.0°

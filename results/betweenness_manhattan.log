@@ -1,0 +1,23 @@
+Loading data/manhattan_roads.txt...
+  77606 nodes
+Running Brandes from 500 random sources...
+  50/500
+  100/500
+  150/500
+  200/500
+  250/500
+  300/500
+  350/500
+  400/500
+  450/500
+  500/500
+
+Betweenness distribution:
+  Total score:       18331076.6
+  Top 1% nodes hold: 20.7% of total
+  Top node score:    11159.6
+  Top node location: (40.7, -73.9)
+
+Top 500 nodes geographic spread:
+  Centroid: (40.8, -73.9)
+  Lat std:  0.0°  Lon std: 0.0°

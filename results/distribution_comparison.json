@@ -1,0 +1,48 @@
+{
+  "n_queries": 1000,
+  "graph": "data/sf_roads.txt",
+  "results": [
+    {
+      "cache_hit_rate": 0.0,
+      "mean_nodes": 9456,
+      "mean_latency_ms": 1.219,
+      "suboptimal_pct": 9.1,
+      "cache_size": 970,
+      "responses": 1000,
+      "mode": "uniform",
+      "p50_ms": 0.694,
+      "p95_ms": 4.25,
+      "p99_ms": 8.71,
+      "actual_cache_hits": 0,
+      "actual_cache_rate": 0.0
+    },
+    {
+      "cache_hit_rate": 0.0,
+      "mean_nodes": 8522,
+      "mean_latency_ms": 1.109,
+      "suboptimal_pct": 9.1,
+      "cache_size": 969,
+      "responses": 1000,
+      "mode": "skewed",
+      "p50_ms": 0.69,
+      "p95_ms": 3.51,
+      "p99_ms": 8.6,
+      "actual_cache_hits": 0,
+      "actual_cache_rate": 0.0
+    },
+    {
+      "cache_hit_rate": 26.4,
+      "mean_nodes": 9442,
+      "mean_latency_ms": 1.245,
+      "suboptimal_pct": 16.2,
+      "cache_size": 705,
+      "responses": 1000,
+      "mode": "repeated",
+      "p50_ms": 0.66,
+      "p95_ms": 4.317,
+      "p99_ms": 8.923,
+      "actual_cache_hits": 264,
+      "actual_cache_rate": 26.4
+    }
+  ]
+}

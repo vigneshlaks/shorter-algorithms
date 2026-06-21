@@ -1,0 +1,86 @@
+[
+  {
+    "n": 361,
+    "centroid": [
+      37.75791631024933,
+      -122.43853657617727
+    ],
+    "mean_dist_to_centroid_m": 3156.331501429423,
+    "max_dist_to_centroid_m": 6603.709457326599,
+    "pct_within_500m_of_centroid": 1.10803324099723,
+    "lat_std_deg": 0.02251026251345184,
+    "lon_std_deg": 0.02728095896632516,
+    "hotspot_cell": [
+      37.74,
+      -122.42
+    ],
+    "hotspot_pct": 7.202216066481994,
+    "mean_cost_ratio": 1.0026279058171754,
+    "mean_detour_m": 18.877146814404437,
+    "city": "SF",
+    "alpha": "\u03b1=1.05"
+  },
+  {
+    "n": 790,
+    "centroid": [
+      37.755293624050665,
+      -122.44135738987322
+    ],
+    "mean_dist_to_centroid_m": 3277.599230135089,
+    "max_dist_to_centroid_m": 6969.884911598209,
+    "pct_within_500m_of_centroid": 0.6329113924050633,
+    "lat_std_deg": 0.023649551312877805,
+    "lon_std_deg": 0.027372431494274617,
+    "hotspot_cell": [
+      37.77,
+      -122.42
+    ],
+    "hotspot_pct": 4.30379746835443,
+    "mean_cost_ratio": 1.0125344379746832,
+    "mean_detour_m": 89.53930379746826,
+    "city": "SF",
+    "alpha": "\u03b1=1.2"
+  },
+  {
+    "n": 112,
+    "centroid": [
+      40.768478151785715,
+      -73.96409111607144
+    ],
+    "mean_dist_to_centroid_m": 3977.4082039162736,
+    "max_dist_to_centroid_m": 11742.177270567096,
+    "pct_within_500m_of_centroid": 4.464285714285714,
+    "lat_std_deg": 0.03802933535706565,
+    "lon_std_deg": 0.02486559938691253,
+    "hotspot_cell": [
+      40.76,
+      -73.96
+    ],
+    "hotspot_pct": 8.928571428571429,
+    "mean_cost_ratio": 1.004390428571429,
+    "mean_detour_m": 48.76848214285713,
+    "city": "Manhattan",
+    "alpha": "\u03b1=1.05"
+  },
+  {
+    "n": 205,
+    "centroid": [
+      40.77162633658537,
+      -73.96010191219513
+    ],
+    "mean_dist_to_centroid_m": 4749.400382203878,
+    "max_dist_to_centroid_m": 11306.074611174681,
+    "pct_within_500m_of_centroid": 1.951219512195122,
+    "lat_std_deg": 0.04363419199271857,
+    "lon_std_deg": 0.02733004875120972,
+    "hotspot_cell": [
+      40.77,
+      -73.96
+    ],
+    "hotspot_pct": 4.878048780487805,
+    "mean_cost_ratio": 1.0149578634146343,
+    "mean_detour_m": 154.12585365853653,
+    "city": "Manhattan",
+    "alpha": "\u03b1=1.2"
+  }
+]

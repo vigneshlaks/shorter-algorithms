@@ -1,0 +1,14 @@
+Loading graph...
+Loaded 77606 nodes
+Analyzing 500 queries at α=1.2...
+
+Results:
+  Queries checked:  267
+  Suboptimal:       216 (80.8989%)
+  No path:          233
+  Divergences found:205
+  Mean cost ratio:  1.01496
+  Mean detour:      154.126 m
+  Mean divergence:  29.9269% into path
+
+Divergence map data: results/divergence_analysis.json

@@ -1,0 +1,25 @@
+Loading data/sf_roads.txt...
+  72930 nodes, 78865 edges
+Running 100 queries...
+
+  10/100 done
+  20/100 done
+  30/100 done
+  40/100 done
+  50/100 done
+  60/100 done
+  70/100 done
+  80/100 done
+  90/100 done
+  100/100 done
+
+Summary (97 valid queries):
+  Mean optimal path: 7.321 km
+
+  ε        mean density    std density
+  -------  ------------    -----------
+   1.000%         2.149%        2.008%
+   5.000%         7.419%        7.412%
+  10.000%        12.657%       12.133%
+  20.000%        21.178%       19.135%
+  50.000%        38.856%       29.283%

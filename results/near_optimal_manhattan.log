@@ -1,0 +1,21 @@
+Loading data/manhattan_roads.txt...
+  77606 nodes, 84619 edges
+Running 100 queries...
+
+  10/100 done
+  20/100 done
+  40/100 done
+  50/100 done
+  60/100 done
+  80/100 done
+
+Summary (53 valid queries):
+  Mean optimal path: 10.605 km
+
+  ε        mean density    std density
+  -------  ------------    -----------
+   1.000%         2.517%        2.255%
+   5.000%         8.142%        7.547%
+  10.000%        12.183%       10.270%
+  20.000%        17.619%       13.530%
+  50.000%        27.647%       18.046%
